@@ -117,7 +117,7 @@ To generate Allure reports after running tests:
    ```
    mvn allure:report
    ```
-   This will generate a report in allure-reports folder
+   This will generate a report in `allure-reports` folder
 
 ---
 
