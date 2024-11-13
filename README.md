@@ -114,6 +114,11 @@ To generate Allure reports after running tests:
    ```
    This will open a browser displaying the Allure report with your test results.
 
+   ```
+   mvn allure:report
+   ```
+   This will generate a report in allure-reports folder
+
 ---
 
 ## How to Run the Project
